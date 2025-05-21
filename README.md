@@ -65,30 +65,25 @@ Tableau : วิเคราะห์และนำเสนอข้อมู�
 ## 2.Data Preparation
 
 ### 2.1 Data Cleaning (ทำความสะอาดข้อมูล)
-![image](https://github.com/user-attachments/assets/9e1c2894-f9b3-46ea-873b-9c98b716e744)
+![image](https://github.com/user-attachments/assets/4879eb5f-8684-44d6-b569-f09dc31cd6cc)
 
-![image](https://github.com/user-attachments/assets/c851c3d2-0a48-4536-8d43-41f04f4ac8ec)
 
 ### 2.2 Feature Engineering (สร้างฟิลด์ใหม่)
-![image](https://github.com/user-attachments/assets/0b0f622e-5ba3-406f-b4ef-c65485efc982)
-
+![image](https://github.com/user-attachments/assets/f166e331-800c-4c03-9d8c-e62329a57b99)
 
 
 ---
 
 ## 3.Exploratory Data Analysis
 
-![image](https://github.com/user-attachments/assets/97d3302f-6f5d-41f5-b836-fa324870e7c8)
+![image](https://github.com/user-attachments/assets/b6f95834-73b3-4b14-990b-571010c545df)
+![image](https://github.com/user-attachments/assets/548779a1-a351-47f7-bfcc-c1ffe9e3ec96)
+![image](https://github.com/user-attachments/assets/57361765-3d16-446f-b30e-63bfc85a9841)
+![image](https://github.com/user-attachments/assets/f6001b51-1cbf-45ac-873a-a51baf508572)
+![image](https://github.com/user-attachments/assets/aa9683a3-3ae1-435d-a520-67f3e7a500ff)
+![image](https://github.com/user-attachments/assets/66855961-8b2e-40dd-84a8-8798538ff9bb)
+![image](https://github.com/user-attachments/assets/b4c81d3a-b51c-4a55-b01e-ec3031275af3)
 
-![image](https://github.com/user-attachments/assets/f846be6d-8b8f-47ff-8012-9afa86aff51a)
-
-![image](https://github.com/user-attachments/assets/6ebe2a7d-8a6d-494d-b497-6cac4d2c7b3b)
-
-![image](https://github.com/user-attachments/assets/ce7a75dd-7197-4fb8-ad2d-da8a483df29c)
-
-![image](https://github.com/user-attachments/assets/3a198bf4-eb25-43eb-a17b-1875c6d0b86c)
-
-![image](https://github.com/user-attachments/assets/1b1d673c-e250-431c-868f-397b82fdbb97)
 
 ---
 
