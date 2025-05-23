@@ -148,9 +148,9 @@ Tableau : วิเคราะห์และนำเสนอข้อมู�
 
 ## 6. Visualization ใน Tableau
 
-- https://public.tableau.com/app/profile/yohea.kato/viz/asfkdsgdrt/Dashboard1?publish=yes
+- https://public.tableau.com/app/profile/yohea.kato/viz/PizzaDeli/Dashboard1?publish=yes
   
-- https://public.tableau.com/app/profile/yohea.kato/viz/asfkdsgdrt/Dashboard2?publish=yes
+- https://public.tableau.com/app/profile/yohea.kato/viz/PizzaDeli/Dashboard2?publish=yes
 
 ### Summary
 จากการวิเคราะห์ข้อมูลการจัดส่งพิซซ่า พบว่าปัจจัยที่ส่งผลต่อการจัดส่งคือระยะทาง ความซับซ้อนของพิซซ่า ช่วงเวลาในการสั่งซื้อ และเมืองที่มีคำสั่งซื้อสูง โดยมีประเด็นสำคัญที่ได้จากการวิเคราะห์ดังนี้
